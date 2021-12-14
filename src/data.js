@@ -1,52 +1,28 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Tic-Tac-Toe in React",
+    subtitle: "Tic-Tac-Toe",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple Tic-Tac-Toe SPA made in React available on CodePen",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://codepen.io/sajruz/full/qBPRaEY",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Cyrus started as a intern in the QA department at Avalanche Studios and was later hired in the same position. Cyrus was a great asset to the QA team, always motivated and goal oriented with superior attention to detail. He also took responsibility for his work and what he did, and I could always trust him with any task, no matter how trivial or complex it was.",
+    image: "https://media-exp1.licdn.com/dms/image/C4E03AQFvOAjTdMDscA/profile-displayphoto-shrink_800_800/0/1517693652392?e=1645056000&v=beta&t=B-7-5sktBVxSAQMj2fTn7PQSbywjYZVOevb1POZb9tk",
+    name: "Joel Fagerlund",
+    company: "DICE",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Cyrus, A heartfelt and passionate person. He has a strong ability to rally people around him and inspire them to perform at their best.",
+    image: "https://media-exp1.licdn.com/dms/image/C4E03AQGzikfBAwQRww/profile-displayphoto-shrink_800_800/0/1550485723233?e=1645056000&v=beta&t=jyhITVif_F8DyRhNyxze8uDjDKvX2t8k5175qvNWG0k",
+    name: "Troels Linde",
+    company: "Professor at Den Norske Filmskolen",
   },
 ];
 
